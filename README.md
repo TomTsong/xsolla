@@ -1,2 +1,2 @@
 # xsolla
-xsolla sdk from python
+xsolla sdk for python
